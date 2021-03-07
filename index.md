@@ -1,4 +1,4 @@
-Welcome to the Data Science Club at CSM
+# Welcome to the Data Science Club at CSM #
 
 ### What to study for Data Science
 
