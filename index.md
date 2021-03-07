@@ -7,7 +7,7 @@
 ### Careers in Data Science
 
 ### Links
-[U.S Bureau of Labor Statistics--Data Scientists](https://www.bls.gov/oes/current/oes152098.htm#st)
+[U.S Bureau of Labor Statistics--Data Scientists](https://www.bls.gov/oes/current/oes152098.htm)
 
 
 
