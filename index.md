@@ -1,6 +1,3 @@
-# Welcome to the Data Science Club at CSM
-
-
 ### What is Data Science? 
 
 ### What to study for Data Science
@@ -16,7 +13,3 @@
 
 
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) <br>
-[repository settings](https://github.com/datasci-csm/datasci-csm/settings) <br>
-[documentation](https://docs.github.com/categories/github-pages-basics/) <br>
-[editor on GitHub](https://github.com/datasci-csm/datasci-csm/edit/gh-pages/index.md) <br>
