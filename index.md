@@ -1,4 +1,6 @@
-### What is Data Science? 
+Data Science Club at CSM
+
+### What is Data Science
 
 ### What to study for Data Science
 
