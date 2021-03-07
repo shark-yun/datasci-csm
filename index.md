@@ -1,4 +1,6 @@
-# Welcome to the Data Science Club at CSM #
+<h2> Welcome to the Data Science Club at CSM </h2>
+
+<h3> What is Data Science? </h3>
 
 ### What to study for Data Science
 
