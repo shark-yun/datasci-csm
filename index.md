@@ -1,4 +1,5 @@
-# `Welcome to the Data Science Club at CSM`
+# Welcome to the Data Science Club at CSM
+
 
 ### What is Data Science? 
 
