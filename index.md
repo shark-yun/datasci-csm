@@ -13,8 +13,7 @@
   <ul>
  <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a>
    <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a>
-  </ul>
-   </div> 
+  
    
    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
@@ -31,6 +30,4 @@
  
  </script>
    
-  </body>
-</html>
-
+ 
