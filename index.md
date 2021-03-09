@@ -2,13 +2,13 @@
 
 
    <div id="accordion">
-   <h3> What is Data Science? </h3>
+   <h3><a href="#"> What is Data Science? </a></h3>
      <div>Data science is ... </div>
-     <h3>What to study for Data Science</h3>
+   <h3><a href="#">What to study for Data Science</a></h3>
      <div>Learning data science is... </div>
-    <h3>Careers in Data Science</h3>
+   <h3><a href="#">Careers in Data Science</a></h3>
      <div>There are many careers in data science... </div>
-  <h3> Links </h3>
+   <h3> <a href="#">Links</a> </h3>
   <ul>
  <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a>
    <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a>
