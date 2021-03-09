@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <body>
 
@@ -11,8 +11,8 @@
      <div>There are many careers in data science... </div>
   <h3> Links </h3>
   <ul>
-* [U.S Bureau of Labor Statistics--Data Scientists](https://www.bls.gov/oes/current/oes152098.htm)
-* [Wikipedia-- Data Science](https://en.wikipedia.org/wiki/Data_science)
+ <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a>
+   <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a>
   </ul>
    </div> 
    
