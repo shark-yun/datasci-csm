@@ -1,5 +1,5 @@
 
-<h3 color="red">Meeting on Wednesdays at 6pm!</h3>
+<h3 style="color:red;">Meeting on Wednesdays at 6pm!</h3>
 
    <div id="accordion">
    <h3><a href="#"> What is Data Science? </a></h3>
