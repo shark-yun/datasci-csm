@@ -23,7 +23,7 @@
                <a href="#coffee"><img id="coffee" src="https://user-images.githubusercontent.com/80187814/110847186-74ec1680-8261-11eb-8310-b14e6264fb7e.jpg" alt="Coffee Emoji" height="200" width="200"></a>
                <a href="#shark"><img id="shark" src="https://user-images.githubusercontent.com/80187814/110847206-7cabbb00-8261-11eb-8052-90eb5a73abeb.jpg"
                alt="Shark Emoji" height = "200" width="200"></a>
-               <p>	&#x1f9c0;</p>
+               <a href"#"><p style="font-size:105px">	&#x1f9c0;</p></a>
                
          </div>
          
