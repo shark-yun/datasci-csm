@@ -12,7 +12,7 @@
          <div>
             
                <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a></li>
-               <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a></li>
+               <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a></li></div>
                   
 
          <h3><a href="#">Photos</a></h3>
