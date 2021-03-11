@@ -1,8 +1,12 @@
+<html>
+   <head>
 <style>
 #emojis a {
    display:inline-block;
    }
 </style>
+      
+   </head>
 <h3 style="color:red;">Meeting on Wednesdays at 6pm!</h3>
 
    <div id="accordion">
@@ -41,6 +45,8 @@
   
 <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 
+
+</html>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
 
 <script>
