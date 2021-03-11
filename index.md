@@ -14,7 +14,7 @@
    <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a>
      </ul></div>
    <h3><a href="#">Photos</a></h3>
- <div>     ![image](https://user-images.githubusercontent.com/80187814/110727196-a1575280-81cf-11eb-9f06-ef178ad7327e.png) </div>
+ <div>  <img src="https://user-images.githubusercontent.com/80187814/110727196-a1575280-81cf-11eb-9f06-ef178ad7327e.png" alt="Zinnia!"></div>
   
    
   </div>
