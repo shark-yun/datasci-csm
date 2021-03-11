@@ -41,7 +41,8 @@
    $("#accordion").accordion( {
      event: "click",
      heightStyle:"content",
-     collapsible: true
+     collapsible: true,
+     active: false
  
  } );
  
