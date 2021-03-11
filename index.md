@@ -12,6 +12,8 @@
   <ul>
  <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a>
    <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a>
+      <h3>Photos</h3>
+      ![image](https://user-images.githubusercontent.com/80187814/110727196-a1575280-81cf-11eb-9f06-ef178ad7327e.png)
   
    
   
