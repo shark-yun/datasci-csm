@@ -8,15 +8,24 @@
          <div>Learning data science is... </div>
          <h3><a href="#">Careers in Data Science</a></h3>
          <div>There are many careers in data science... </div>
-         <h3> <a href="#">Links + Emojis</a> </h3>
+   
+         <h3><a href="#">Club Officer Emojis</a></h3>
+         <div> <a href="#coffee"><img id="coffee" src="https://user-images.githubusercontent.com/80187814/110847186-74ec1680-8261-11eb-8310-b14e6264fb7e.jpg" alt="Coffee Emoji" height="200" width="200"></a><br>
+               <a href="#shark"><img id="shark" src="https://user-images.githubusercontent.com/80187814/110847206-7cabbb00-8261-11eb-8052-90eb5a73abeb.jpg"
+               alt="Shark Emoji" height = "200" width="200"></a><br>
+         </div>
+         
+         
+         
+         
+         <h3> <a href="#">Links</a> </h3>
          <div>
             
                <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a></li>
                <li><a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia-- Data Science</a></li></div>
                   
 
-         <h3><a href="#">Photos</a></h3>
-         <div> <a href="#zinnia"><img id="zinnia" src="https://user-images.githubusercontent.com/80187814/110727196-a1575280-81cf-11eb-9f06-ef178ad7327e.png" alt="Zinnia!" height="200" width="200"></a></div>
+         
    
    
 
