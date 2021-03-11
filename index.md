@@ -17,7 +17,7 @@
          </div>
          <h3><a href="#">Photos</a></h3>
          <div> <a href="#zinnia"><img id="zinnia" src="https://user-images.githubusercontent.com/80187814/110727196-a1575280-81cf-11eb-9f06-ef178ad7327e.png" alt="Zinnia!" height="200" width="200"></a></div>
-   </div> 
+   
    
 
   
