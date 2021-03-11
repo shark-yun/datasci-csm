@@ -8,7 +8,7 @@
          <div>Learning data science is... </div>
          <h3><a href="#">Careers in Data Science</a></h3>
          <div>There are many careers in data science... </div>
-         <h3> <a href="#">Links</a> </h3>
+         <h3> <a href="#">Links + Emojis</a> </h3>
          <div>
             <ul>
                <li><a href="https://www.bls.gov/oes/current/oes152098.htm">U.S Bureau of Labor Statistics--Data Scientists</a>
