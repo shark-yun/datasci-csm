@@ -4,6 +4,7 @@
 #emojis a {
    display:inline-block;
    text-emphasis-style: filled;
+   text-shadow: 1px 1px 2px orange;
    
    }
 </style>
