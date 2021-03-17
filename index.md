@@ -3,6 +3,8 @@
 <style>
 #emojis a {
    display:inline-block;
+   text-decoration: orange wavy underline;
+   
    }
 </style>
       
