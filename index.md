@@ -14,11 +14,11 @@
 
    <div id="accordion">
          <h3><a href="#"> What is Data Science? </a></h3>
-         <div>Data science is ... </div>
+         <div>Data science is: </div>
          <h3><a href="#">What to study for Data Science</a></h3>
-         <div>Learning data science is... </div>
+         <div>Learning data science is: </div>
          <h3><a href="#">Careers in Data Science</a></h3>
-         <div>There are many careers in data science... </div>
+         <div>There are many careers in data science </div>
    
          <h3><a href="#">Club Officer Emojis</a></h3>
          <div id="emojis"> 
